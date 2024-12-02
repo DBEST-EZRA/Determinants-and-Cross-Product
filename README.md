@@ -29,7 +29,7 @@ The assignment is divided into two parts:
 
 To complete this assignment, you need:
 - **Python 3.6+**
-- Libraries:
+- Libraries used:
   - `numpy`
   - `matplotlib`
 
